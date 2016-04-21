@@ -1,0 +1,170 @@
+,STATE,NAME,MSASTATR,Percent,Year
+0,1,Alaska,Combined,100,2006
+1,2,Alabama,Urban,77.5862069,2006
+2,2,Alabama,Rural,22.4137931,2006
+3,3,Arkansas,Urban,50.7462687,2006
+4,3,Arkansas,Rural,49.2537313,2006
+5,4,Arizona,Urban,91.3043478,2006
+6,4,Arizona,Rural,8.6956522,2006
+7,5,California,Urban,92.0634921,2006
+8,5,California,Rural,7.9365079,2006
+9,6,Colorado,Urban,81.8181818,2006
+10,6,Colorado,Rural,18.1818182,2006
+11,7,Connecticut,Combined,100,2006
+12,8,Washington DC,Urban,100,2006
+13,9,Delaware,Combined,100,2006
+14,10,Florida,Urban,97.8723404,2006
+15,10,Florida,Rural,2.1276596,2006
+16,11,Georgia,Urban,72.8571429,2006
+17,11,Georgia,Rural,27.1428571,2006
+18,12,Hawaii,Combined,100,2006
+19,13,Iowa,Urban,54.5454545,2006
+20,13,Iowa,Rural,45.4545455,2006
+21,14,Idaho,Combined,100,2006
+22,15,Illinois,Urban,88.75,2006
+23,15,Illinois,Rural,11.25,2006
+24,16,Indiana,Urban,83.3333333,2006
+25,16,Indiana,Rural,16.6666667,2006
+26,17,Kansas,Urban,72.7272727,2006
+27,17,Kansas,Rural,27.2727273,2006
+28,18,Kentucky,Urban,59.3220339,2006
+29,18,Kentucky,Rural,40.6779661,2006
+30,19,Louisiana,Urban,75.4385965,2006
+31,19,Louisiana,Rural,24.5614035,2006
+32,20,Massachusetts,Combined,100,2006
+33,21,Maryland,Combined,100,2006
+34,22,Maine,Combined,100,2006
+35,23,Michigan,Urban,84.2857143,2006
+36,23,Michigan,Rural,15.7142857,2006
+37,24,Minnesota,Urban,83.3333333,2006
+38,24,Minnesota,Rural,16.6666667,2006
+39,25,Missouri,Urban,75,2006
+40,25,Missouri,Rural,25,2006
+41,26,Mississippi,Urban,48.6111111,2006
+42,26,Mississippi,Rural,51.3888889,2006
+43,27,Montana,Combined,100,2006
+44,28,North Carolina,Urban,74.2857143,2006
+45,28,North Carolina,Rural,25.7142857,2006
+46,29,North Dakota,Combined,100,2006
+47,30,Nebraska,Urban,57.1428571,2006
+48,30,Nebraska,Rural,42.8571429,2006
+49,31,New Hampshire,Combined,100,2006
+50,32,New Jersey,Urban,100,2006
+51,33,New Mexico,Urban,66.3265306,2006
+52,33,New Mexico,Rural,33.6734694,2006
+53,34,Nevada,Combined,100,2006
+54,35,New York ,Urban,94.6666667,2006
+55,35,New York ,Rural,5.3333333,2006
+56,36,Ohio,Urban,81.8181818,2006
+57,36,Ohio,Rural,18.1818182,2006
+58,37,Oklahoma,Urban,69.3877551,2006
+59,37,Oklahoma,Rural,30.6122449,2006
+60,38,Oregon,Urban,76.2376238,2006
+61,38,Oregon,Rural,23.7623762,2006
+62,39,Pennsylvania,Urban,83.9506173,2006
+63,39,Pennsylvania,Rural,16.0493827,2006
+64,40,Rhode Island,Combined,100,2006
+65,41,South Carolina,Urban,76.9230769,2006
+66,41,South Carolina,Rural,23.0769231,2006
+67,42,South Dakota,Combined,100,2006
+68,43,Tennessee,Urban,73.8461538,2006
+69,43,Tennessee,Rural,26.1538462,2006
+70,44,Texas,Urban,92.4731183,2006
+71,44,Texas,Rural,7.5268817,2006
+72,45,Utah,Urban,87.3563218,2006
+73,45,Utah,Rural,12.6436782,2006
+74,46,Virginia,Urban,92.2077922,2006
+75,46,Virginia,Rural,7.7922078,2006
+76,47,Vermont,Combined,100,2006
+77,48,Washington,Urban,93.877551,2006
+78,48,Washington,Rural,6.122449,2006
+79,49,Wisconsin,Urban,73.9130435,2006
+80,49,Wisconsin,Rural,26.0869565,2006
+81,50,West Virginia,Urban,44.4444444,2006
+82,50,West Virginia,Rural,55.5555556,2006
+83,51,Wyoming,Combined,1,2006
+,,Alaska,Combined,100,2010
+,,Alabama,Combined,36.89320388,2010
+,,Alabama,Urban,63.10679612,2010
+,,Arkansas,Combined,45.56962025,2010
+,,Arkansas,Urban,54.43037975,2010
+,,Arizona,Combined,7.82122905,2010
+,,Arizona,Urban,92.17877095,2010
+,,California,Combined,2.162162162,2010
+,,California,Urban,97.83783784,2010
+,,Colorado,Combined,17.64705882,2010
+,,Colorado,Urban,82.35294118,2010
+,,Connecticut,Combined,100,2010
+,,Washington DC,Urban,100,2010
+,,Delaware,Combined,100,2010
+,,Florida,Combined,4.651162791,2010
+,,Florida,Urban,95.34883721,2010
+,,Georgia,Combined,17.85714286,2010
+,,Georgia,Urban,82.14285714,2010
+,,Hawaii,Combined,100,2010
+,,Iowa,Combined,44.70588235,2010
+,,Iowa,Urban,55.29411765,2010
+,,Idaho,Combined,100,2010
+,,Illinois,Combined,11.03448276,2010
+,,Illinois,Urban,88.96551724,2010
+,,Indiana,Combined,18.24817518,2010
+,,Indiana,Urban,81.75182482,2010
+,,Kansas,Combined,32.74336283,2010
+,,Kansas,Urban,67.25663717,2010
+,,Kentucky,Combined,45.61403509,2010
+,,Kentucky,Urban,54.38596491,2010
+,,Louisiana,Combined,14.28571429,2010
+,,Louisiana,Urban,85.71428571,2010
+,,Massachusetts,Combined,100,2010
+,,Maryland,Combined,100,2010
+,,Maine,Combined,100,2010
+,,Michigan,Combined,14.39393939,2010
+,,Michigan,Urban,85.60606061,2010
+,,Minnesota,Combined,29,2010
+,,Minnesota,Urban,71,2010
+,,Missouri,Combined,23.74100719,2010
+,,Missouri,Urban,76.25899281,2010
+,,Mississippi,Combined,54.08805031,2010
+,,Mississippi,Urban,45.91194969,2010
+,,Montana,Combined,100,2010
+,,North Carolina,Combined,28.26086957,2010
+,,North Carolina,Urban,71.73913043,2010
+,,North Dakota,Combined,100,2010
+,,Nebraska,Combined,42.10526316,2010
+,,Nebraska,Urban,57.89473684,2010
+,,New Hampshire,Combined,100,2010
+,,New Jersey,Combined,0.625,2010
+,,New Jersey,Urban,99.375,2010
+,,New Mexico,Combined,39.88439306,2010
+,,New Mexico,Urban,60.11560694,2010
+,,Nevada,Combined,100,2010
+,,New York ,Combined,6.535947712,2010
+,,New York ,Urban,93.46405229,2010
+,,Ohio,Combined,15.12605042,2010
+,,Ohio,Urban,84.87394958,2010
+,,Oklahoma,Combined,34.72222222,2010
+,,Oklahoma,Urban,65.27777778,2010
+,,Oregon,Combined,19.88950276,2010
+,,Oregon,Urban,80.11049724,2010
+,,Pennsylvania,Combined,18.44660194,2010
+,,Pennsylvania,Urban,81.55339806,2010
+,,Rhode Island,Combined,100,2010
+,,South Carolina,Combined,27.90697674,2010
+,,South Carolina,Urban,72.09302326,2010
+,,South Dakota,Combined,100,2010
+,,Tennessee,Combined,27.41935484,2010
+,,Tennessee,Urban,72.58064516,2010
+,,Texas,Combined,10.98265896,2010
+,,Texas,Urban,89.01734104,2010
+,,Utah,Combined,9.770114943,2010
+,,Utah,Urban,90.22988506,2010
+,,Virginia,Combined,14.28571429,2010
+,,Virginia,Urban,85.71428571,2010
+,,Vermont,Combined,100,2010
+,,Washington,Combined,10.56338028,2010
+,,Washington,Urban,89.43661972,2010
+,,Wisconsin,Combined,26.15384615,2010
+,,Wisconsin,Urban,73.84615385,2010
+,,West Virginia,Combined,54.26356589,2010
+,,West Virginia,Urban,45.73643411,2010
+,,Wyoming,Combined,100,2010
