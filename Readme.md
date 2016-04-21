@@ -12,12 +12,12 @@ Data for this project is acquired from CDC, NIH, NIHS and NIMH. This data was re
 Federal and Non-Federal Budget for CSHCN
 
 
-![Alt text](images/picture1.png)
+![Alt text](Images/picture1.png)
 Below is the Initial Analysis of Data showing the incidence of different conditions among the CSHCN.
-![Alt text](images/Screen Shot 2016-04-19 at 10.49.51 AM.png)
+![Alt text](Images/Screen Shot 2016-04-19 at 10.49.51 AM.png)
 
 Dissatisfatcion rates per condition as a percent of total dissatisfied are shown below. Mental health and Asthma are in the top 5 most expensive conditions treated in the US. 
-![Alt text](images/Screen Shot 2016-04-18 at 2.46.53 PM.png)
+![Alt text](Images/Screen Shot 2016-04-18 at 2.46.53 PM.png)
 
 Satisfaction levels hover around <b>87%</b> nationally. Given the gravity of the impact of theses conditions, it is essential to close the gap between the satisfaction and dissatisfaction rates. it will also behoove us to predict the possible conditions with simple questions to help reduce the cost of diagnosis and testing. 
 
@@ -70,4 +70,4 @@ I created an app in Shiny that let's an user explore all the data from different
 #References
 1. McPherson, M., P. Arango, H. Fox, C. Lauver, M. McManus, P. W. Newacheck, J. M. Perrin, J. P. Shonkoff, and B. Strickland. "A New Definition of Children With Special Health Care Needs." Pediatrics 102.1 (1998): 137-39.
 2. NIHS CSHCN Data sets
-3. NIMH Expenditure by State Data
+3. NIMH Expenditure by State DataImages
