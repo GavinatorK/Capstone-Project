@@ -32,7 +32,7 @@ One Vs Rest Classifier and Random Forest Classifier are combined to predict the 
 
 ##Code
 
-####Note: 
+###Note: 
 The data from the source has dissimilar column or category names and hence a lot of manual picking and sorting was used in the files below.
 
 ###Dissatisfaction prediction model:
@@ -56,7 +56,11 @@ This shiny app is readily launchable on any computer with R and Shiny Server. Al
 ##Predictions
 The data collected included overall satisfaction with healthservices from the interviewees in 2001 and 2006 but not 2010. I predicted the 2010 dissatisfaction using my model and the video below shows the change between 2001 to 2010.  
 
+![Alt text](Images/output_MpniNm.gif)
 
+A test case result from conditions prediction model is shown below. A test case result belonging to a child is passed to the model and it predicts the probability of each condition. This will help a physician or Psychiatrist narrow down the tests to be conducted thus reducing cost of diagnosis.
+
+![Alt text](Images/Screen Shot 2016-04-18 at 4.30.41 PM.png)
 
 #Shiny App
 I created an app in Shiny that let's an user explore all the data from different years. 
@@ -70,4 +74,4 @@ I created an app in Shiny that let's an user explore all the data from different
 #References
 1. McPherson, M., P. Arango, H. Fox, C. Lauver, M. McManus, P. W. Newacheck, J. M. Perrin, J. P. Shonkoff, and B. Strickland. "A New Definition of Children With Special Health Care Needs." Pediatrics 102.1 (1998): 137-39.
 2. NIHS CSHCN Data sets
-3. NIMH Expenditure by State DataImages
+3. NIMH Expenditure by State Data
