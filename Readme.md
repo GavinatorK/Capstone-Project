@@ -4,9 +4,9 @@
 	a.[Data](##data)<br>
 2. [Motivation](#motivation)<br>
 3. [Problems](#problems)<br>
-   a.[Algorithms](##Algorithms)<br>
+   a.[Algorithms](#Algorithms)<br>
    b.[Code](##code)<br>
-   c.[Predictions](##predictions)<br>
+   c.[Predictions](#predictions)<br>
 4.	[APP](#shiny-app)<br>
 5. [References](#references)<br>
 
