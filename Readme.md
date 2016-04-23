@@ -1,14 +1,14 @@
 
 # Table of Contents
 1. [Special Healthcare Needs](#special-healthcare-needs)<br>
-	 [Data](##data)
-2. [Motivation](#motivation)
+	 [Data](##data)<br>
+2. [Motivation](#motivation)<br>
 3. [Problems](#problems)<br>
    [Algorithms](##Algorithms)<br>
 	[Code](##code)<br>
-	[Predictions](##predictions)
-4.	[APP](#shiny-app)
-5. [References](#references)
+	[Predictions](##predictions)<br>
+4.	[APP](#shiny-app)<br>
+5. [References](#references)<br>
 
 #Special Healthcare Needs
 "Those who have one or more chronic physical, developmental, behavioral, or emotional conditions and who
