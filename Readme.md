@@ -23,7 +23,7 @@ Data for this project is acquired from CDC, NIH, NIHS and NIMH. This data was re
 Federal and Non-Federal Budget for CSHCN
 
 
-![Alt text](Images/picture1.png)
+![Alt text](Images/Picture1.png)
 Below is the Initial Analysis of Data showing the incidence of different conditions among the CSHCN.
 ![Alt text](Images/Screen Shot 2016-04-19 at 10.49.51 AM.png)
 
